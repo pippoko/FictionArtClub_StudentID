@@ -1,1 +1,2 @@
-# FictionArtClub_StudentID
+# 架空の美術部生徒証メーカー
+これは磁石祭ZERO企画、
